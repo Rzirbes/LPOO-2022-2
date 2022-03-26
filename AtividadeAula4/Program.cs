@@ -50,10 +50,6 @@ namespace AtividadeAula4
             {
                 print(item.Nome);
             }
-
-            
-
-
         }
 
         private static void print(string msg)
