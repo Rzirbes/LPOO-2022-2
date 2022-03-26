@@ -9,12 +9,25 @@ namespace Aula03Encapsulamento
         {
             WriteMsg("Criar o objeto mochila!");
 
-            Mochila mochila = new Mochila(1, "Mochila de Notebook", 199, 10, eCor.Amarelo);
+            Mochila mochilaPreta = new Mochila(1, "Mochila de Notebook", 199, 10, eCor.Amarelo);
 
-            WriteMsg("Nome: " + mochila.Descricao + 
-            "Cor: " + mochila.cor);
+            WriteMsg("Nome: " + mochilaPreta.Descricao + 
+            "Cor: " + mochilaPreta.cor);
 
-            WriteMsg($"Nome {mochila.Descricao}, cor da mochila {mochila.cor}");
+            WriteMsg($"Nome {mochilaPreta.Descricao}, cor da mochila {mochilaPreta.cor}");
+
+            Item celular = new Item(100, "Nokia 3030");
+            Item caneta = new Item(101, "Caneta de Quadro Branco");
+            
+            mochilaPreta.Itens.Add(celular);
+            mochilaPreta.Itens.Add(caneta);
+
+            WriteMsg("Nome: " + mochilaPreta.Descricao);
+            WriteMsg("Itens");
+            foreach (var item in mochilaPreta.Itens)
+            {
+                WriteMsg(item.Nome);
+            }
 
 
         }

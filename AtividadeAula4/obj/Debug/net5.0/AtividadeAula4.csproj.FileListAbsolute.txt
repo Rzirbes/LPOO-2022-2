@@ -1,0 +1,16 @@
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.exe
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.deps.json
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.runtimeconfig.json
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.runtimeconfig.dev.json
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.dll
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\ref\AtividadeAula4.dll
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\bin\Debug\net5.0\AtividadeAula4.pdb
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.csproj.AssemblyReference.cache
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.AssemblyInfoInputs.cache
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.AssemblyInfo.cs
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.csproj.CoreCompileInputs.cache
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.dll
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\ref\AtividadeAula4.dll
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.pdb
+C:\Users\rzirb\Documents\faculdade\POO\LPOO-2022-2\AtividadeAula4\obj\Debug\net5.0\AtividadeAula4.genruntimeconfig.cache
